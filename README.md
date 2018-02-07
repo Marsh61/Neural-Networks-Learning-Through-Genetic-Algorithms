@@ -1,3 +1,6 @@
+## PURPOSE
+The purpose of this program is to show how feedforward neural networks can learn through genetic algorithms to solve a simple problem. In the paper ("Neural Networks Learning Through Genetic Algorithms.pdf") I discuss how genetic algorithms "teach" neural networks the solution to a problem, the problems of using genetic algorithms, and how different genetic algorithm techniques compare to one another.
+
 ## HOW TO RUN 
  - Command is "python Game.py"
 
